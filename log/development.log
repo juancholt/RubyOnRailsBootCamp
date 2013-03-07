@@ -1,0 +1,161 @@
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 14:48:30 -0500
+Connecting to database specified by database.yml
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (37.0ms)
+Compiled index.css  (68ms)  (pid 5216)
+Compiled application.css  (123ms)  (pid 5216)
+Compiled jquery.js  (7ms)  (pid 5216)
+Compiled jquery_ujs.js  (1ms)  (pid 5216)
+Completed 500 Internal Server Error in 2368ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__210757995_38454504'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (55.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:07:13 -0500
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 572ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__210757995_38454504'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (66.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:16:31 -0500
+Connecting to database specified by database.yml
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (30.0ms)
+Completed 500 Internal Server Error in 493ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__548177197_41702796'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (41.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:16:35 -0500
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 272ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__548177197_41702796'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (39.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:17:40 -0500
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 450ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__548177197_41702796'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (69.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:17:42 -0500
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 462ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__548177197_41702796'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (66.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-07 15:20:07 -0500
+Connecting to database specified by database.yml
+Processing by IndexController#inicio as HTML
+  Rendered index/inicio.html.erb within layouts/application (54.0ms)
+Completed 500 Internal Server Error in 813ms
+
+ActionView::Template::Error (
+  (in C:/Users/JuanCamilo/Documents/RubyOnRails/RoRProjects/Blog/app/assets/javascripts/index.js.coffee)):
+    3: <head>
+    4:   <title>Blog</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___480198425_38340960'
+
+
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsFTW193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (65.0ms)
